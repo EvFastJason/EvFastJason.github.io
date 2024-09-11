@@ -379,9 +379,9 @@ button[disabled], html input[disabled] {
     background-color: red;
 }
 .left-aligned-list-value-label {
-    float: left;
-    height: 100%;
     text-align: left;
+    background-color: #f0f0f0;
+    height: 100%;
 }
 
 .right-aligned-list-value-label {
