@@ -389,6 +389,6 @@ button[disabled], html input[disabled] {
     justify-content: center;
     align-items: center;
     background-color: #D9FFF2;
-    width: 100%;
+    width: 40%;
     height: 100%;
 }
