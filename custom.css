@@ -379,14 +379,13 @@ button[disabled], html input[disabled] {
     background-color: red;
 }
 .left-aligned-list-value-label {
-    float: right;
+    float: left;
     height: 100%;
     text-align: left;
-    color: red;
+    background-color: green;
 }
 
 .right-aligned-list-value-label {
     float: left;
-    color: green;
     background-color: red;
 }
