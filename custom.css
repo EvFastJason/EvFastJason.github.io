@@ -376,10 +376,7 @@ button[disabled], html input[disabled] {
 .list-group-item.mp_credit_card_country,
 .list-group-item.mp_credit_card_bank
 {
-    display: none;
-}
-.proceed-button {
-    background-color: red;
+    float: left;
 }
 /*
 .barcode-container {
