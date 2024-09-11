@@ -386,5 +386,5 @@ button[disabled], html input[disabled] {
 
 .right-aligned-list-value-label {
     float: center;
-    background-color: red;
+    background-color: #D9FFF2;
 }
