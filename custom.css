@@ -382,10 +382,9 @@ button[disabled], html input[disabled] {
     float: left;
     height: 100%;
     text-align: left;
-    background-color: green;
 }
 
 .right-aligned-list-value-label {
-    float: left;
+    float: right;
     background-color: red;
 }
