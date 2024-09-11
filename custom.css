@@ -376,13 +376,13 @@ button[disabled], html input[disabled] {
     text-align: center;
 } */
 .left-aligned-list-value-label {
-    float: left;
+    float: right;
     height: 100%;
     text-align: left;
     color: red;
 }
 
 .right-aligned-list-value-label {
-    float: right;
+    float: left;
     color: green;
 }
