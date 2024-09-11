@@ -56,16 +56,6 @@ body {
     padding-right: 5px;
 }
 
-.left-aligned-list-value-label {
-    float: left;
-    height: 100%;
-    text-align: left;
-}
-
-.right-aligned-list-value-label {
-    float: right;
-}
-
 .left-label {
     font-weight: 200;
     color: #ababab;
@@ -367,7 +357,6 @@ button[disabled], html input[disabled] {
 
 .list-group-item.mp_order_ID,
 .list-group-item.mp_currency,
-*/
 .list-group-item.mp_channel,
 .list-group-item.mp_bill_name,
 .list-group-item.mp_bill_email,
@@ -378,7 +367,7 @@ button[disabled], html input[disabled] {
 {
     float: left;
 }
-/*
+
 .barcode-container {
     width: 100%;
     padding-top: 15px;
@@ -386,3 +375,14 @@ button[disabled], html input[disabled] {
     padding-right: 10px;
     text-align: center;
 } */
+.left-aligned-list-value-label {
+    float: left;
+    height: 100%;
+    text-align: left;
+    color: red;
+}
+
+.right-aligned-list-value-label {
+    float: right;
+    color: green;
+}
