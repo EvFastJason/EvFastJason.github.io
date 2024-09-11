@@ -385,6 +385,9 @@ button[disabled], html input[disabled] {
 }
 
 .right-aligned-list-value-label {
-    float: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #D9FFF2;
+    height: 100%;
 }
