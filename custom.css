@@ -375,6 +375,9 @@ button[disabled], html input[disabled] {
     padding-right: 10px;
     text-align: center;
 } */
+.proceed-button {
+    background-color: red;
+}
 .left-aligned-list-value-label {
     float: right;
     height: 100%;
