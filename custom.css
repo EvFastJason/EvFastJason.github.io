@@ -375,20 +375,15 @@ button[disabled], html input[disabled] {
     padding-right: 10px;
     text-align: center;
 } */
-.proceed-button {
-    background-color: red;
-}
 .left-aligned-list-value-label {
-    text-align: left;
-    background-color: #f0f0f0;
+    float: left;
     height: 100%;
+    text-align: left;
 }
 
 .right-aligned-list-value-label {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #D9FFF2;
+    float: right;
     width: 40%;
     height: 100%;
 }
+
